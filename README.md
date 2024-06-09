@@ -1,1 +1,1 @@
-# hey_api_data_project
+# hey_data/analyst_project
