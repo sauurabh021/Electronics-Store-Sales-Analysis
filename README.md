@@ -1,1 +1,2 @@
-
+This project explores 12 months of sales data from an electronics store, containing hundreds of thousands of transactions. The dataset includes details such as purchase month, product type, cost, and purchase address, enabling a comprehensive analysis of sales performance and customer behavior.
+This project demonstrates how to derive actionable business insights from large datasets to drive growth and optimize operations.
